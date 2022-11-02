@@ -1,4 +1,4 @@
-# CS-2024-A
+# CS-2024-C
 This repository contains the details of major project created by the students of 2024 Batch at Computer Science Department, KIET Ghaziabad.<br>
 
 <b>#NOTE</b><br>
