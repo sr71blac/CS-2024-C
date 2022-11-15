@@ -10,8 +10,8 @@ This repository contains the details of students under following faculty mentor 
   <li>Ms. Pooja Sharma</li>
   <li>Mr. Sreesh Gaur</li>
   <li>Mr. Vikas Kamra</li>
-  <li>Mr. Balvidya Mitr</li>
-  <li>Mr. Gaurav Rawat</li>
+  <li>Mr. Amit Sanger</li>
+<!--   <li>Mr. Gaurav Rawat</li> -->
 </ul>
   
 <b>#How to access</b><br>
