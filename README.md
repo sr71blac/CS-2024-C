@@ -5,7 +5,7 @@ This repository contains the details of major project created by the students of
 This repository contains the details of students under following faculty mentor only.<br>
 <ul>
   <li>Dr. Kalpana Sagar</li>
-  <li>Ms. Neha Shukla</li>
+<!--   <li>Ms. Neha Shukla</li> -->
   <li>Ms. Pallavi Sharma</li>
   <li>Ms. Pooja Sharma</li>
   <li>Mr. Sreesh Gaur</li>
@@ -48,7 +48,7 @@ Folders of following project Ids has been created.<br>
       <td><span style="font-style: normal; font-weight: 400;">Ms. Pallavi Sharma</span><br></td> </tr> <tr> <td>9</td> <td><span style="font-style: normal; font-weight: 400;">PCS23-33</span></td>
       <td><span style="font-style: normal; font-weight: 400;">Ms. Pooja Sharma</span><br></td> </tr> <tr> <td>10</td> <td><span style="font-style: normal; font-weight: 400;">PCS23-49</span></td>
       <td><span style="font-style: normal; font-weight: 400;">Ms. Pooja Sharma</span><br></td> </tr> <tr> <td>11</td> <td><span style="font-style: normal; font-weight: 400;">PCS23-77</span></td> 
-      <td><span style="font-style: normal; font-weight: 400;">Ms. Pooja Sharma</span><br></td> </tr> <tr> <td>12</td> <td><span style="font-style: normal; font-weight: 400;">PCS23-79</span></td> 
+      <td><span style="font-style: normal; font-weight: 400;">Ms. Pooja Sharma</span><br></td> </tr> <tr> <td>12</td> <td><span style="font-style: normal; font-weight: 400;">PCS23-78</span></td> 
       <td><span style="font-style: normal; font-weight: 400;">Mr. Sreesh Gaur</span><br></td> </tr> <tr> <td>13</td> <td><span style="font-style: normal; font-weight: 400;">PCS23-41</span></td>
       <td><span style="font-style: normal; font-weight: 400;">Mr. Sreesh Gaur</span><br></td> </tr> <tr> <td>14</td> <td><span style="font-style: normal; font-weight: 400;">PCS23-30</span></td>
       <td><span style="font-style: normal; font-weight: 400;">Mr. Sreesh Gaur</span><br></td> </tr> <tr> <td>15</td> <td><span style="font-style: normal; font-weight: 400;">PCS23-32</span></td>
