@@ -4,7 +4,7 @@ This repository contains the details of major project created by the students of
 <b>#NOTE</b><br>
 This repository contains the details of students under following faculty mentor only.<br>
 <ul>
-  <li>Dr. Kalpana Sagar</li>
+  <li>Ms.. Kalpana Sagar</li>
   <li>Ms. Pallavi Sharma</li>
   <li>Mr. Sreesh Gaur</li>
   <li>Mr. Amit Sanger</li>
