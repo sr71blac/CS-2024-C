@@ -28,12 +28,6 @@ This repository contains the details of students under following faculty mentor 
 <b>#Student Data</b><br>
 Folders of following project Ids has been created.<br>
 <table border="1">
-  <thead>
-    <tr>
-  <td>Serial No</td>
-  <td>PCS Code</td>
-  <td>Name</td>
-</tr>
   </thead>  
   <tbody>
   <tr>
