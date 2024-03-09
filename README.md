@@ -4,7 +4,7 @@ This repository contains the details of major project created by the students of
 <b>#NOTE</b><br>
 This repository contains the details of students under following faculty mentor only.<br>
 <ul>
-  <li>Ms.. Kalpana Sagar</li>
+<!--   <li>Ms.. Kalpana Sagar</li> -->
   <li>Ms. Pallavi Sharma</li>
   <li>Mr. Sreesh Gaur</li>
   <li>Mr. Amit Sanger</li>
@@ -28,12 +28,6 @@ This repository contains the details of students under following faculty mentor 
 <b>#Student Data</b><br>
 Folders of following project Ids has been created.<br>
 <table border="1">
-  <thead>
-    <tr>
-  <td>Serial No</td>
-  <td>PCS Code</td>
-  <td>Name</td>
-</tr>
   </thead>  
   <tbody>
   <tr>
@@ -42,13 +36,15 @@ Folders of following project Ids has been created.<br>
     <td>Name</td>
 </tr>
 
-<tr>
-    <td>1</td>
-    <td>PCS24-08</td>
-    <td>Ms. Kalpana Sagar</td>
-</tr>
+
 
 <!-- Blank Row -->
+
+<tr>
+    <td>1</td>
+    <td>PCS24-71</td>
+    <td>Ms. Pallavi Sharma</td>
+</tr>
 
 <tr>
     <td>2</td>
@@ -62,13 +58,14 @@ Folders of following project Ids has been created.<br>
     <td>Ms. Pallavi Sharma</td>
 </tr>
 
-<tr>
-    <td>4</td>
-    <td>PCS24-71</td>
-    <td>Ms. Pallavi Sharma</td>
-</tr>
 
 <!-- Blank Row -->
+
+<tr>
+    <td>4</td>
+    <td>PCS24-74</td>
+    <td>Mr Shreesh Gaur</td>
+</tr>
 
 <tr>
     <td>5</td>
@@ -82,48 +79,43 @@ Folders of following project Ids has been created.<br>
     <td>Mr Shreesh Gaur</td>
 </tr>
 
-<tr>
-    <td>7</td>
-    <td>PCS24-74</td>
-    <td>Mr Shreesh Gaur</td>
-</tr>
-
 <!-- Blank Row -->
 
 <tr>
-    <td>8</td>
+    <td>7</td>
     <td>PCS24-46</td>
     <td>Mr Amit Sengar</td>
 </tr>
 
 <tr>
-    <td>9</td>
+    <td>8</td>
     <td>PCS24-68</td>
     <td>Mr Amit Sengar</td>
 </tr>
 
+
 <!-- Blank Row -->
 
 <tr>
-    <td>10</td>
+    <td>9</td>
     <td>PCS24-17</td>
     <td>Mr Rahul Chauhan</td>
 </tr>
 
 <tr>
-    <td>11</td>
+    <td>10</td>
     <td>PCS24-48</td>
     <td>Mr Rahul Chauhan</td>
 </tr>
 
 <tr>
-    <td>12</td>
+    <td>11</td>
     <td>PCS24-59</td>
     <td>Mr Rahul Chauhan</td>
 </tr>
 
 <tr>
-    <td>13</td>
+    <td>12</td>
     <td>PCS24-73</td>
     <td>Mr Rahul Chauhan</td>
 </tr>
@@ -131,18 +123,23 @@ Folders of following project Ids has been created.<br>
 <!-- Blank Row -->
 
 <tr>
-    <td>14</td>
+    <td>13</td>
     <td>PCS24-34</td>
     <td>Ms. Vishakha Chauhan</td>
 </tr>
 
 <tr>
-    <td>15</td>
+    <td>14</td>
     <td>PCS24-36</td>
     <td>Ms. Vishakha Chauhan</td>
 </tr>
 
 <!-- Blank Row -->
+<tr>
+    <td>15</td>
+    <td>PCS24-08</td>
+    <td>Mr Vivek Kumar Sharma</td>
+</tr>
 
 <tr>
     <td>16</td>
